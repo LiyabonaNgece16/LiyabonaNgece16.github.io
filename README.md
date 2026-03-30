@@ -1,7 +1,5 @@
 # LiyabonaNgece16.github.io
 ---
-theme: jekyll-theme-minimal
-title: Liyabona Ngece - CV & Portfolio
 ---
 
 # Liyabona Lathitha Ngece
