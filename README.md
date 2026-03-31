@@ -119,7 +119,12 @@ Developed a fully functional online marketplace platform featuring:
 
 ---
 
+--- 
+## Mock Interview Link
+This is the link where you can find the mock interview.
+(https://canva.link/06kvwu0qlhkfaqa)
 
+---
 📧 liyabonangece@icloud.com  
 📞 081 860 9661  
 📍 Somerset West, Western Cape, South Africa
