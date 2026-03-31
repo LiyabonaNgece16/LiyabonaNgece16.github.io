@@ -1,6 +1,5 @@
 # LiyabonaNgece16.github.io
 ---
----
 
 # Liyabona Lathitha Ngece
 
@@ -117,12 +116,6 @@ Developed a fully functional online marketplace platform featuring:
 | 🧩 Problem-solving | 🤝 Team Collaboration | ⏰ Time Management |
 | 🔍 Attention to Detail | 💬 Communication | 📊 Analytical Thinking |
 | 🎨 Creative Design | 🔧 Technical Adaptability | 📱 User-Centered Focus |
-
----
-
-## 📁 Mock Interview Video
-
-[View my mock interview video](./mock-interview-video.mp4)
 
 ---
 
