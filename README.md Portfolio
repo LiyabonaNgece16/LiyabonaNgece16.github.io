@@ -1,0 +1,125 @@
+# 🎨 Everything Tech – UX/UI Design System
+
+> **A comprehensive UI framework for web & mobile platforms**  
+> *Design tokens • Component guidelines • Interactive prototype*
+
+[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-blue?style=for-the-badge&logo=figma)](https://www.figma.com/proto/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?node-id=32172-851&t=R7vkOi3eeAaxEa85-1)
+[![Design System](https://img.shields.io/badge/Design-System-orange?style=for-the-badge)]()
+
+---
+
+## 📖 Introduction
+
+**Purpose** – Provide a unified UI framework for consistent experiences across **web** and **mobile** digital platforms.
+
+---
+
+## 🎨 Design Tokens
+
+### Colour Palette
+
+| Category       | Colour 1 | Colour 2 |
+|----------------|----------|----------|
+| **Primary**    | `#556AEB` | `#020A33` |
+| **Secondary**  | `#FF9500` | `#332200` |
+| **Neutral**    | `#FFFFFF` | `#000000` |
+| **State**      | Success: `#6E82FE` | Warning: `#6C757D`<br>Error: `#FF9500` |
+
+### Typography
+
+- **Font Family** – `Inter` (primary), sans-serif fallback
+- **Font Sizes** – H1: `60px` | H2: `48px` | Body: `18px`
+- **Weights** – Light (300) · Regular (400) · Bold (700)
+- **Spacing** – `1rem = 16px`
+
+### Spacing System
+
+`4px` · `8px` · `16px` · `24px` · `32px` · `40px` · `48px` · `56px` · `64px` · `80px` · `100px`
+
+### Layout Grid
+
+- **12‑column grid** – centre aligned  
+- **Column width** – `65px`  
+- **Gutter** – `30px`
+
+---
+
+## 🧩 Component Guidelines
+
+### Buttons
+
+| Variant      | Size      | Interaction States              |
+|--------------|-----------|---------------------------------|
+| Default      | Small     | Colour change                   |
+| Hover        | Medium    | Shadow elevation                |
+| Active       | Large     | Border shift                    |
+| Disabled     | –         | Reduced opacity, no interaction |
+
+### Forms & Inputs
+
+- **Elements** – Text fields, dropdowns, checkboxes, radio buttons  
+- **Validation states** – ✅ Success · ⚠️ Warning · ❌ Error
+
+### Reusable UI Components
+
+| Component       | Purpose                                      |
+|----------------|----------------------------------------------|
+| **Cards**      | Grouped information display                  |
+| **Modals**     | Overlay popups for extra details             |
+| **Navbars & Tabs** | Primary user navigation                  |
+| **Alerts**     | Feedback messages (success, warning, error)  |
+
+---
+
+## 🖼️ Figma Prototype
+
+👉 [**View the interactive prototype on Figma**](https://www.figma.com/proto/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?node-id=32172-851&t=R7vkOi3eeAaxEa85-1)
+
+*(Prototype includes full component interactions and responsive layouts)*
+
+---
+
+## 📁 Portfolio Projects
+
+### 1. Everything Tech – UX/UI Design System
+
+**Status**: ✅ Completed  
+**Focus**: Design tokens, component library, Figma prototype, web/mobile consistency  
+**Tech**: Figma, Adobe Colour, Typography systems
+
+> This project delivers a complete design system with documented tokens, reusable components, and a live Figma prototype. It serves as the foundation for all digital products under the "Everything Tech" brand.
+
+---
+
+### 2. SVG Animation Lab
+
+**Status**: 🚧 In progress (placeholder)  
+**Focus**: Scalable vector graphics, motion design, interactive animations  
+**Tools**: SVG, CSS animations, JavaScript (GSAP)
+
+> *Coming soon* – A collection of responsive, accessible SVG animations for web interfaces and storytelling.
+
+---
+
+### 3. Designer Portfolio (this site)
+
+**Status**: 🌐 Live  
+**Focus**: Personal branding, case study presentation, project documentation  
+**Stack**: GitHub Pages, Markdown, Figma embeds
+
+> My central portfolio showcasing all design and front-end projects, including this design system and upcoming animation work.
+
+---
+
+## 📄 License
+
+This design system is open for educational and portfolio use.  
+© Everything Tech – UX/UI focused.
+
+---
+
+## 🔗 Quick Links
+
+- [Figma Prototype](https://www.figma.com/proto/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?node-id=32172-851&t=R7vkOi3eeAaxEa85-1)
+- [GitHub Repository](#) *(replace with your repo URL)*
+- [Live Portfolio](#) *(replace with your GitHub Pages URL)*
