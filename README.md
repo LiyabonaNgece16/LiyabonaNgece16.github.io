@@ -6,7 +6,7 @@
 **9 Warbler Avenue, Somerset West, Western Cape, South Africa**  
 📞 081 860 9661  
 ✉️ liyabonangece@icloud.com  
-🔗 [GitHub Portfolio]( | [LinkedIn](www.linkedin.com/in/liyabona-ngece-2278671a2)
+🔗 [GitHub Portfolio](https://liyabonangece16.github.io) | [LinkedIn](www.linkedin.com/in/liyabona-ngece-2278671a2)
 
 ---
 
