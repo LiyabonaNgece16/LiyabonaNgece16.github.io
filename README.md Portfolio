@@ -1,125 +1,253 @@
-# 🎨 Everything Tech – UX/UI Design System
+# 🎨 Liyabona Ngece – Design & Animation Portfolio
 
-> **A comprehensive UI framework for web & mobile platforms**  
-> *Design tokens • Component guidelines • Interactive prototype*
+> **UX/UI Designer • Front-End Animator • Design Systems**  
+> *Three projects showcasing design thinking, SVG animation, and portfolio presentation*
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-blue?style=for-the-badge&logo=figma)](https://www.figma.com/proto/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?node-id=32172-851&t=R7vkOi3eeAaxEa85-1)
-[![Design System](https://img.shields.io/badge/Design-System-orange?style=for-the-badge)]()
+[![Figma](https://img.shields.io/badge/Figma-Design%20System-blue?style=for-the-badge&logo=figma)](https://www.figma.com/design/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?t=N5Z7dMMuQJLoflHz-0)
+[![SVG](https://img.shields.io/badge/SVG-Animation-orange?style=for-the-badge&logo=svg)](https://htmlpreview.github.io/?https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/svg-animation.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge)]()
+
+---
+
+## 📌 Table of Contents
+
+1. [Project 1: Everything Tech – UX/UI Design System](#project-1-everything-tech--uxui-design-system)
+2. [Project 2: Sunrise Over Mountains – SVG Animation](#project-2-sunrise-over-mountains--svg-animation)
+3. [Project 3: Designer Portfolio](#project-3-designer-portfolio-coming-soon)
+4. [About the Designer](#about-the-designer)
 
 ---
 
-## 📖 Introduction
+# Project 1: Everything Tech – UX/UI Design System
 
-**Purpose** – Provide a unified UI framework for consistent experiences across **web** and **mobile** digital platforms.
+## 📖 Introduction & Overview
 
----
+**Purpose of the Design System**  
+The purpose of this design system is to provide a UI framework system that will be used across digital platforms which are web and mobile.
 
 ## 🎨 Design Tokens
 
 ### Colour Palette
 
-| Category       | Colour 1 | Colour 2 |
-|----------------|----------|----------|
-| **Primary**    | `#556AEB` | `#020A33` |
-| **Secondary**  | `#FF9500` | `#332200` |
-| **Neutral**    | `#FFFFFF` | `#000000` |
-| **State**      | Success: `#6E82FE` | Warning: `#6C757D`<br>Error: `#FF9500` |
+| Category | Colour 1 | Colour 2 |
+|----------|----------|----------|
+| **Primary** | `#556AEB` | `#020A33` |
+| **Secondary** | `#FF9500` | `#332200` |
+| **Neutral** | `#FFFFFF` | `#000000` |
+| **State Colours** | Success: `#6E82FE` | Warning: `#6C757D`<br>Error: `#FF9500` |
 
 ### Typography
 
-- **Font Family** – `Inter` (primary), sans-serif fallback
-- **Font Sizes** – H1: `60px` | H2: `48px` | Body: `18px`
-- **Weights** – Light (300) · Regular (400) · Bold (700)
-- **Spacing** – `1rem = 16px`
+| Property | Value |
+|----------|-------|
+| **Font Family** | Inter (primary), sans-serif fallback |
+| **H1** | 60px / Bold |
+| **H2** | 48px / Bold |
+| **Body** | 18px / Regular |
+| **Weights** | Light (300), Regular (400), Bold (700) |
+| **Line Heights & Spacing** | 1rem = 16px |
 
 ### Spacing System
 
+**Padding & Margins:**  
 `4px` · `8px` · `16px` · `24px` · `32px` · `40px` · `48px` · `56px` · `64px` · `80px` · `100px`
 
-### Layout Grid
-
-- **12‑column grid** – centre aligned  
-- **Column width** – `65px`  
-- **Gutter** – `30px`
-
----
+**Layout Grid:**  
+- 12-column grid, centered
+- Column width: `65px`
+- Gutter: `30px`
 
 ## 🧩 Component Guidelines
 
 ### Buttons
 
-| Variant      | Size      | Interaction States              |
-|--------------|-----------|---------------------------------|
-| Default      | Small     | Colour change                   |
-| Hover        | Medium    | Shadow elevation                |
-| Active       | Large     | Border shift                    |
-| Disabled     | –         | Reduced opacity, no interaction |
+| Variant | Sizes | Interaction States |
+|---------|-------|---------------------|
+| Default | Small | Colour change |
+| Hover | Medium | Shadow elevation |
+| Active | Large | Border shift |
+| Disabled | – | Reduced opacity, no interaction |
 
 ### Forms & Inputs
 
-- **Elements** – Text fields, dropdowns, checkboxes, radio buttons  
-- **Validation states** – ✅ Success · ⚠️ Warning · ❌ Error
+**Elements:** Text fields, Dropdowns, Checkboxes, Radio buttons
+
+**Validation States:** Success ✅ · Error ❌ · Warning ⚠️
 
 ### Reusable UI Components
 
-| Component       | Purpose                                      |
-|----------------|----------------------------------------------|
-| **Cards**      | Grouped information display                  |
-| **Modals**     | Overlay popups for extra details             |
-| **Navbars & Tabs** | Primary user navigation                  |
-| **Alerts**     | Feedback messages (success, warning, error)  |
+| Component | Purpose |
+|-----------|---------|
+| **Cards** | Displaying grouped information |
+| **Modals** | Overlay popups for additional details |
+| **Navigation Bars & Tabs** | Primary user navigation elements |
+| **Alerts** | Feedback messages for users |
+
+## 🔗 Figma File
+
+👉 **[View the complete design system on Figma](https://www.figma.com/design/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?t=N5Z7dMMuQJLoflHz-0)**
+
+*The Figma file includes: interactive prototypes, component libraries, design tokens, and responsive layouts for web & mobile.*
 
 ---
 
-## 🖼️ Figma Prototype
+# Project 2: Sunrise Over Mountains – SVG Animation
 
-👉 [**View the interactive prototype on Figma**](https://www.figma.com/proto/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?node-id=32172-851&t=R7vkOi3eeAaxEa85-1)
+## 🌄 Overview
 
-*(Prototype includes full component interactions and responsive layouts)*
+An animated SVG scene featuring a sunrise over mountain ranges with drifting clouds and swaying trees. Built with pure HTML/CSS/SVG – no JavaScript or external libraries required.
 
----
+## 🎬 Animation Features
 
-## 📁 Portfolio Projects
+| Element | Animation | Duration | Effect |
+|---------|-----------|----------|--------|
+| ☀️ **Sun** | `sunRise` – translateY + opacity | 8s | Sun rises from bottom to top |
+| 🌌 **Sky** | `skyAnimation` – stop-color changes | 10s | Night → dawn → morning sky |
+| ⛰️ **Mountains** | `mountainColorChange` – fill colour | 10s | Dark → green/earthy tones |
+| 🌳 **Trees** | `treeSway` – rotate | 3.5–5s | Gentle swaying motion |
+| ☁️ **Clouds** | `cloudMove1/2/3` – translateX | 30–40s | Drifting across the sky |
 
-### 1. Everything Tech – UX/UI Design System
+## 📁 Complete Code
 
-**Status**: ✅ Completed  
-**Focus**: Design tokens, component library, Figma prototype, web/mobile consistency  
-**Tech**: Figma, Adobe Colour, Typography systems
+Save this as `svg-animation.html` and open in any modern browser:
 
-> This project delivers a complete design system with documented tokens, reusable components, and a live Figma prototype. It serves as the foundation for all digital products under the "Everything Tech" brand.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sunrise Over Mountains - SVG Animation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+        }
 
----
+        .scene-container {
+            width: 100%;
+            max-width: 800px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            overflow: hidden;
+        }
 
-### 2. SVG Animation Lab
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
 
-**Status**: 🚧 In progress (placeholder)  
-**Focus**: Scalable vector graphics, motion design, interactive animations  
-**Tools**: SVG, CSS animations, JavaScript (GSAP)
+        @keyframes skyAnimation {
+            0% { stop-color: #0a0a2a; }
+            25% { stop-color: #1a1a4a; }
+            50% { stop-color: #4b6cb7; }
+            75% { stop-color: #6dd5ed; }
+            100% { stop-color: #a1c4fd; }
+        }
 
-> *Coming soon* – A collection of responsive, accessible SVG animations for web interfaces and storytelling.
+        @keyframes sunRise {
+            0% { transform: translateY(300px); opacity: 0.5; }
+            100% { transform: translateY(0); opacity: 1; }
+        }
 
----
+        @keyframes cloudMove1 {
+            0% { transform: translateX(-100px); }
+            100% { transform: translateX(800px); }
+        }
 
-### 3. Designer Portfolio (this site)
+        @keyframes cloudMove2 {
+            0% { transform: translateX(800px); }
+            100% { transform: translateX(-100px); }
+        }
 
-**Status**: 🌐 Live  
-**Focus**: Personal branding, case study presentation, project documentation  
-**Stack**: GitHub Pages, Markdown, Figma embeds
+        @keyframes cloudMove3 {
+            0% { transform: translateX(-150px); }
+            100% { transform: translateX(850px); }
+        }
 
-> My central portfolio showcasing all design and front-end projects, including this design system and upcoming animation work.
+        @keyframes mountainColorChange {
+            0% { fill: #1a1a1a; }
+            100% { fill: #3a5f0b; }
+        }
 
----
-
-## 📄 License
-
-This design system is open for educational and portfolio use.  
-© Everything Tech – UX/UI focused.
-
----
-
-## 🔗 Quick Links
-
-- [Figma Prototype](https://www.figma.com/proto/KLxaHjQv7xztQdUkzggi1d/Everything-Tech.co?node-id=32172-851&t=R7vkOi3eeAaxEa85-1)
-- [GitHub Repository](#) *(replace with your repo URL)*
-- [Live Portfolio](#) *(replace with your GitHub Pages URL)*
+        @keyframes treeSway {
+            0%, 100% { transform: rotate(-2deg); }
+            50% { transform: rotate(2deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="scene-container">
+        <h1>Sunrise Over Mountains</h1>
+        
+        <svg width="100%" height="500px" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#0a0a2a">
+                        <animate attributeName="stop-color" values="#0a0a2a; #1a1a4a; #4b6cb7; #6dd5ed; #a1c4fd" dur="10s" fill="freeze" />
+                    </stop>
+                    <stop offset="100%" stop-color="#0a0a2a">
+                        <animate attributeName="stop-color" values="#0a0a2a; #1a1a4a; #4b6cb7; #6dd5ed; #a1c4fd" dur="10s" fill="freeze" />
+                    </stop>
+                </linearGradient>
+                
+                <radialGradient id="sunGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                    <stop offset="0%" stop-color="#ffde00" />
+                    <stop offset="100%" stop-color="#ff7e00" />
+                </radialGradient>
+                
+                <g id="cloud">
+                    <ellipse cx="25" cy="15" rx="15" ry="10" fill="white" />
+                    <ellipse cx="40" cy="15" rx="15" ry="10" fill="white" />
+                    <ellipse cx="55" cy="15" rx="15" ry="10" fill="white" />
+                    <ellipse cx="40" cy="5" rx="15" ry="10" fill="white" />
+                </g>
+            </defs>
+            
+            <rect width="800" height="500" fill="url(#skyGradient)" />
+            
+            <circle cx="400" cy="300" r="60" fill="url(#sunGradient)" opacity="0.5" style="animation: sunRise 8s ease-out forwards;">
+                <title>Rising Sun</title>
+            </circle>
+            
+            <path d="M0,500 L100,300 L250,450 L400,200 L550,400 L700,250 L800,500 Z" fill="#1a1a1a" style="animation: mountainColorChange 10s ease-out forwards;">
+                <title>Mountain Range</title>
+            </path>
+            
+            <g transform="translate(150, 400)" style="animation: treeSway 4s ease-in-out infinite;">
+                <rect x="0" y="0" width="10" height="50" fill="#5e2c04" />
+                <polygon points="0,-30 25,20 -25,20" fill="#0a5c36" />
+                <polygon points="0,-60 25,-10 -25,-10" fill="#0a5c36" />
+            </g>
+            
+            <g transform="translate(300, 380)" style="animation: treeSway 5s ease-in-out infinite 1s;">
+                <rect x="0" y="0" width="10" height="70" fill="#5e2c04" />
+                <polygon points="0,-30 30,20 -30,20" fill="#0a5c36" />
+                <polygon points="0,-60 30,-10 -30,-10" fill="#0a5c36" />
+                <polygon points="0,-90 30,-40 -30,-40" fill="#0a5c36" />
+            </g>
+            
+            <g transform="translate(500, 420)" style="animation: treeSway 3.5s ease-in-out infinite 0.5s;">
+                <rect x="0" y="0" width="8" height="50" fill="#5e2c04" />
+                <polygon points="0,-25 20,15 -20,15" fill="#0a5c36" />
+                <polygon points="0,-50 20,-10 -20,-10" fill="#0a5c36" />
+            </g>
+            
+            <use href="#cloud" x="0" y="50" style="animation: cloudMove1 30s linear infinite;" opacity="0.8" />
+            <use href="#cloud" x="0" y="100" style="animation: cloudMove2 40s linear infinite;" opacity="0.7" />
+            <use href="#cloud" x="0" y="150" style="animation: cloudMove3 35s linear infinite;" opacity="0.6" />
+            
+            <rect x="0" y="480" width="800" height="20" fill="#2a5c0b" />
+            
+            <desc>An animated scene of sunrise over mountains with moving clouds and swaying trees</desc>
+        </svg>
+    </div>
+</body>
+</html>
